@@ -1,11 +1,34 @@
-<mxfile host="www.draw.io" modified="2019-11-12T13:50:38.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="3DeeCUAA-fFV9z1K8zGf" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T13:54:56.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="9S2Lo8sFWnHjI9Z7P0O-" version="12.2.4" type="github" pages="1">
   <diagram id="U-w7u7OEnIscjphA3188" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="gkytnsoyHmJGiKa_s_Vy-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="170" y="110" width="80" height="80" as="geometry"/>
+        <mxCell id="Q_X0jhflHjxoWOW4DT2n-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="35" width="340" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_X0jhflHjxoWOW4DT2n-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="150" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_X0jhflHjxoWOW4DT2n-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkytnsoyHmJGiKa_s_Vy-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="115" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkytnsoyHmJGiKa_s_Vy-1" value="Angular" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="90" y="70" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_X0jhflHjxoWOW4DT2n-3" value="Rest Service API" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_X0jhflHjxoWOW4DT2n-4" value="Mongo DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_X0jhflHjxoWOW4DT2n-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Q_X0jhflHjxoWOW4DT2n-6" target="Q_X0jhflHjxoWOW4DT2n-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="440" as="sourcePoint"/>
+            <mxPoint x="280" y="330" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
