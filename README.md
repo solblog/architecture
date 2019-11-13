@@ -1,2 +1,2 @@
 # architecture
-Diagramas with POC architecture for testing
+Diagramas with POC architectures for testing
