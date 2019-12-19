@@ -1,3 +1,3 @@
 # architecture
-Diagramas with POC architectures for testing
+Design Architecture diagrams for projects. POC architectures for testing. 
 https://www.draw.io/
